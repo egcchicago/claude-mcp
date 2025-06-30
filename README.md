@@ -145,3 +145,16 @@ We'd like to thank the following people for their major contributions to Stageha
 Licensed under the MIT License.
 
 Copyright 2025 Browserbase, Inc.
+
+
+MY Extra instructions...
+run bash code...
+```brew install node
+npm install -g pnpm
+pnpm install
+pnpm run build
+npm start
+cd stagehand
+cd dist
+claude mcp add stagehand -e BROWSERBASE_API_KEY="" "" -e BROWSERBASE_PROJECT_ID=" " -e OPENAI_API_KEY=" " --node /<directory>/mcp-server-browserbase/stagehand/dist/index.js
+
